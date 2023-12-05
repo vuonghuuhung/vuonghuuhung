@@ -1,7 +1,7 @@
 ### Hi there, I'm Hung 👋
 
 <p align="center"> 
-  <a href=#><img width="300" height="300" src="cat.svg"></a>
+  <a href=#><img width="300" height="300" src="./corgy.jpg"></a>
 </p>
 
 - 🔭 I’m currently working on BKCLabs - A laboratory researching and developing blockchain technology
