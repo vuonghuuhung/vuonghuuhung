@@ -13,7 +13,7 @@
   + :green_heart: 0333202898
 - 🌱 My github status:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vuonghuuhung&theme=github-dark-blue&border_radius=6&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vuonghuuhung&theme=github-dark-blue&border_radius=6&card_width=1000)](https://git.io/streak-stats)
 <!--
 **vuonghuuhung/vuonghuuhung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
