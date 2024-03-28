@@ -4,7 +4,6 @@
   <a href=#><img width="300" height="300" src="./corgy.jpg"></a>
 </p>
 
-- 🔭 I’m currently working on BKCLabs - A laboratory researching and developing blockchain technology
 - 🌱 I am currently studying at Hanoi University of Science and Technology, I love programming, design pattern and blockchain
 - :sparkles: Programming languages I can use currently: JS/TS, Solidity, Java. I'm working on reactjs, nestjs, etherjs,...
 - :fire: I want to become a fullstack blockchain developer
