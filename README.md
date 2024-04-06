@@ -1,8 +1,8 @@
-### Hi there, I'm Hung 👋
 
-<p align="center"> 
-  <a href=#><img width="300" height="300" src="./corgy.jpg"></a>
-</p>
+<div align="center">
+    <a href="#"><img width="250" height="250" src="./shiba.gif"></a>
+    <a href="#"><img width="250" height="250" src="./corgy.jpg"></a>
+</div>
 
 - 🌱 I am currently studying at Hanoi University of Science and Technology, I love programming, design pattern and blockchain
 - :sparkles: Programming languages I can use currently: JS/TS, Solidity, Java. I'm working on reactjs, nestjs, etherjs,...
@@ -12,7 +12,7 @@
   + :green_heart: 0333202898
 - 🌱 My github status:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vuonghuuhung&theme=github-dark-blue&border_radius=6&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vuonghuuhung&theme=github-dark-blue&border_radius=6&card_width=1000&align=center)](https://git.io/streak-stats)
 <!--
 **vuonghuuhung/vuonghuuhung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
