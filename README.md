@@ -12,6 +12,11 @@
   + :green_heart: 0333202898
 - 📊 Weekly development by vuonghuuhung:
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 - 🌱 My github status:
 
