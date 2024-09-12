@@ -10,6 +10,9 @@
 - 📫 How to reach me: 
   + :green_heart: vuonghuuhung2002@gmail.com 
   + :green_heart: 0333202898
+- 📊 Weekly development by vuonghuuhung:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 - 🌱 My github status:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vuonghuuhung&theme=github-dark-blue&border_radius=6&card_width=1000&align=center)](https://git.io/streak-stats)
