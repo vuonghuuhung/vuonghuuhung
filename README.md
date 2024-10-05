@@ -5,7 +5,7 @@
 </div>
 
 - 🌱 I am currently studying at Hanoi University of Science and Technology, I love programming, design pattern and blockchain
-- :sparkles: Programming languages I can use currently: JS/TS, Solidity, Java. I'm working on reactjs, nestjs, etherjs,...
+- :sparkles: Programming languages I can use currently: JS/TS, Solidity, Rust. I'm working on reactjs, nestjs, etherjs,...
 - :fire: I want to become a fullstack blockchain developer
 - 📫 How to reach me: 
   + :green_heart: vuonghuuhung2002@gmail.com 
