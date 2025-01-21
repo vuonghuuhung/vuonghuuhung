@@ -24,7 +24,7 @@ Other         19 mins         ▒░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 - 🌱 My github status:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vuonghuuhung&theme=github-dark-dimmed&border_radius=10&exclude_days=Sun%2CSat&card_width=1000&card_height=250&excludeDaysLabel=EBEBEB00)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=vuonghuuhung&theme=github-dark-dimmed&border_radius=10&exclude_days=Sun%2CSat&card_width=1000&card_height=250&excludeDaysLabel=EBEBEB00)](https://git.io/streak-stats)
 <!--
 **vuonghuuhung/vuonghuuhung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
