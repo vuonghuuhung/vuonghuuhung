@@ -4,12 +4,11 @@
     <a href="#"><img width="250" height="250" src="./corgy.jpg"></a>
 </div>
 
-- 🌱 I am currently studying at Hanoi University of Science and Technology, I love programming, design pattern and blockchain
+- 🌱 I graduated from Hanoi University of Science and Technology, my major is Computer Science, I love programming, design pattern and blockchain
 - :sparkles: Programming languages I can use currently: JS/TS, Solidity, Rust. I'm working on reactjs, nestjs, etherjs,...
 - :fire: I want to become a fullstack blockchain developer
 - 📫 How to reach me: 
-  + :green_heart: vuonghuuhung2002@gmail.com 
-  + :green_heart: 0333202898
+  + :green_heart: hans.vuong182@gmail.com
 - 📊 Weekly development by vuonghuuhung:
 <!--START_SECTION:waka-->
 
