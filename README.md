@@ -13,8 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         6 mins                ████████████████████████░   96.64 %
-TypeScript   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Solidity     10 mins               ███████████████▓░░░░░░░░░   62.38 %
+Rust         6 mins                █████████░░░░░░░░░░░░░░░░   36.36 %
+TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
